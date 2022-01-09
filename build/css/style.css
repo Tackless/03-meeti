@@ -3839,8 +3839,8 @@ textarea.form-control-lg {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
-  color: #f34f51;
+  padding: 0.5rem 0;
+  color: #b5b5b5;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3850,7 +3850,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #c23f41;
+  color: #9c9c9c;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -11128,7 +11128,8 @@ textarea.form-control-lg {
     padding-bottom: 10rem;
   }
 }
-.header .logo {
+
+.logo {
   width: 10rem;
 }
 
